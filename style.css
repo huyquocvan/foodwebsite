@@ -381,3 +381,9 @@ body{
     margin-top:29px;
     color:#fff;
 }
+@media(max-width: 800px){
+  *{
+    flex: 100%;
+    flex-wrap: wrap;
+  }
+}
